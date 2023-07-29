@@ -1,7 +1,17 @@
-- 👋 Hi, I’m @Dauliac
-- 👀 I’m interested in devops, software engenering, quantum computers, deep learning 
-- 🌱 I’m currently learning rust
-<!---
-Dauliac/Dauliac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 DevOps & SRE Extraordinaire! 🚀
+
+Passionate DevOps & SRE engineer automating everything! 💻
+
+🛠️ Orchestrating seamless integrations.
+🤖 Automating CI/CD pipelines & IaC.
+💡 Embracing best practices.
+🚀 Cloud, Containers, CI/CD mastery.
+
+Let's collaborate! Message me on Feever and let's embark on a DevOps journey! 🌟
+
+#DevOps #SRE #Automation #Cloud #Containers #CI/CD
+
+Stay curious, automate everything, conquer challenges! ❤️
+
+🤝 Let's collaborate on [Fiverr](https://fr.fiverr.com/users/dauliac)
+💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/julien-dauliac-26a577135/)
